@@ -5,3 +5,5 @@
 
 
 https://nodejs.org/api/single-executable-applications.html
+
+node 环境必须是20 ，22执行报错
